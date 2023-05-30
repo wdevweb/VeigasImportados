@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.533181ba.css",
+    "main.js": "./static/js/main.19090ccc.js",
+    "static/media/hover2.jpg": "./static/media/hover2.8274b6ba920788a5c30b.jpg",
+    "static/media/vestido1.jpg": "./static/media/vestido1.42e5ec2a63e3d5187e34.jpg",
+    "static/media/c3.jpg": "./static/media/c3.dbe213ed5c654e767185.jpg",
+    "static/media/hover5.jpg": "./static/media/hover5.31f423c7ac40914c9ab6.jpg",
+    "static/media/hover1.jpg": "./static/media/hover1.eb2104b552bda0893cfd.jpg",
+    "static/media/acessorio.jpg": "./static/media/acessorio.189eecfcbef50950b5b5.jpg",
+    "static/media/hover4.jpg": "./static/media/hover4.7249826276bda4cf6e1d.jpg",
+    "static/media/c1.jpg": "./static/media/c1.7b3d1fc94204bc63c654.jpg",
+    "static/media/bone.jpg": "./static/media/bone.d2cc5eb3cb97092b0d63.jpg",
+    "static/media/sapato.jpg": "./static/media/sapato.fb3a3889a08e062c6511.jpg",
+    "static/media/sug1.jpg": "./static/media/sug1.52eeee27720c8de23e92.jpg",
+    "static/media/roupaInfantil.jpg": "./static/media/roupaInfantil.51b3cdb33b6fcc32fbc5.jpg",
+    "static/media/c2.jpg": "./static/media/c2.3b3b51893a50f6eca655.jpg",
+    "static/media/hover3.jpg": "./static/media/hover3.968396ee894bf9d0a73d.jpg",
+    "static/media/sug3.jpg": "./static/media/sug3.174b3ddfaab3dad04026.jpg",
+    "static/media/moletom5.jpg": "./static/media/moletom5.860654a5b957f0e4b424.jpg",
+    "static/media/sug2.jpg": "./static/media/sug2.ad10665f53a8c914c2ca.jpg",
+    "static/media/moletom1.jpg": "./static/media/moletom1.e407aaa0b3bc68df251c.jpg",
+    "static/media/moletom3.jpg": "./static/media/moletom3.1f75aaf9ad81ab61b69f.jpg",
+    "static/media/moletom4.jpg": "./static/media/moletom4.faf4397fc1fb8aea2b79.jpg",
+    "static/media/moletom2.jpg": "./static/media/moletom2.156eadc93b9dd6a3ffb8.jpg",
+    "static/media/card.png": "./static/media/card.394949faad4898fbd638.png",
+    "static/media/call.png": "./static/media/call.27c73615aa4d2b8ed2ee.png",
+    "static/media/security.png": "./static/media/security.3fc59ca286a962710386.png",
+    "index.html": "./index.html",
+    "main.533181ba.css.map": "./static/css/main.533181ba.css.map",
+    "main.19090ccc.js.map": "./static/js/main.19090ccc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.533181ba.css",
+    "static/js/main.19090ccc.js"
+  ]
+}
