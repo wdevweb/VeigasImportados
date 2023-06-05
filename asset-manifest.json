@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.ff30bdfe.css",
+    "main.css": "./static/css/main.3fbbdaea.css",
     "main.js": "./static/js/main.0b522fb1.js",
     "static/media/c3.jpg": "./static/media/c3.b7841f3ff35b58257c87.jpg",
     "static/media/CalçaJeans.png": "./static/media/CalçaJeans.f79c57c0150620a86854.png",
@@ -76,11 +76,11 @@
     "static/media/call.png": "./static/media/call.27c73615aa4d2b8ed2ee.png",
     "static/media/security.png": "./static/media/security.3fc59ca286a962710386.png",
     "index.html": "./index.html",
-    "main.ff30bdfe.css.map": "./static/css/main.ff30bdfe.css.map",
+    "main.3fbbdaea.css.map": "./static/css/main.3fbbdaea.css.map",
     "main.0b522fb1.js.map": "./static/js/main.0b522fb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff30bdfe.css",
+    "static/css/main.3fbbdaea.css",
     "static/js/main.0b522fb1.js"
   ]
 }
