@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3fbbdaea.css",
-    "main.js": "./static/js/main.0b522fb1.js",
+    "main.js": "./static/js/main.3fd30094.js",
     "static/media/c3.jpg": "./static/media/c3.b7841f3ff35b58257c87.jpg",
     "static/media/CalçaJeans.png": "./static/media/CalçaJeans.f79c57c0150620a86854.png",
     "static/media/JaquetaJeans.png": "./static/media/JaquetaJeans.1325ba6254ae52e4e62c.png",
@@ -77,10 +77,10 @@
     "static/media/security.png": "./static/media/security.3fc59ca286a962710386.png",
     "index.html": "./index.html",
     "main.3fbbdaea.css.map": "./static/css/main.3fbbdaea.css.map",
-    "main.0b522fb1.js.map": "./static/js/main.0b522fb1.js.map"
+    "main.3fd30094.js.map": "./static/js/main.3fd30094.js.map"
   },
   "entrypoints": [
     "static/css/main.3fbbdaea.css",
-    "static/js/main.0b522fb1.js"
+    "static/js/main.3fd30094.js"
   ]
 }
